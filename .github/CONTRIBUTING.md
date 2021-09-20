@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Hello 👋. We welcome you all to GirlScript Winter Of Contributing🎊🎊
+Hello 👋. We welcome all of you to GirlScript Winter Of Contributing🎊🎊
 | Index                                                         |
 | ------------------------------------------------------------- |
 | [Contributing to this repo](#contributing-to-this-repository) |
@@ -41,7 +41,7 @@ Throughout the program there are three modes of contribution, as listed below:
 
 📌Note: For video and audio files, only link should be added to the repository with details of the video/audio.
 
-✔ Participants are requested to give regular updates regarding their progress to the mentors.
+✔ Participants are requested to give regular updates regarding to their progress to the mentors.
 
 ✔ If the participant is not able to contribute to the assigned issue due to any reason, kindly let the mentors know so that the issue is assigned to some other participant.
 
